@@ -1,0 +1,1 @@
+# hostloc_auto_get_points
